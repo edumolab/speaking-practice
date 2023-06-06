@@ -29,6 +29,7 @@ const Home: NextPage = () => {
       </Head>
       <main className="flex min-h-screen flex-col items-center bg-black text-white">
         <div className="container flex flex-col items-center justify-center gap-3 p-4">
+          <button class="absolute left-3 top-3 rounded-full bg-blue-500 text-white">Tips</button>
           <YouTubeSearch />
           <YouTubePlayer />
           <ClipEditor
