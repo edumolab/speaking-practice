@@ -37,7 +37,7 @@ const YOUTUBE_API_URL = "https://www.youtube.com/iframe_api";
 const YOUTUBE_PLAYER_ID = "__youtube-player__";
 const VIDEO_WIDTH = 288;
 const VIDEO_HEIGHT = 208;
-const DEFAULT_YOUTUBE_VIDEO_ID = "DZ-wo8RrNy0&t=22s";
+const DEFAULT_YOUTUBE_VIDEO_ID = "ngAnv0yibGs";
 const LOCALSTORAGE_YOUTUBE_VIDEO_ID_KEY = "__YOUTUBE_VIDEO_ID__";
 
 const PLAYER_STATE = {
